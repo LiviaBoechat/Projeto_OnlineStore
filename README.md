@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto Front-end Online Store!!
+# Boas-vindas ao repositório do projeto Front-end Online Store!
 
 Para realizar o projeto, atente-se a cada passo descrito a seguir. Se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
 
